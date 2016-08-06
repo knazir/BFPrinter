@@ -1,6 +1,4 @@
 # Compiled files
-secrets/
-*.json
 *.pyc
 
 # PyCharm
