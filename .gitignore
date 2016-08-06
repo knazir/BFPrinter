@@ -1,0 +1,10 @@
+# Compiled files
+secrets/
+*.json
+*.pyc
+
+# PyCharm
+.idea/
+
+# OSX
+.DS_Store/
