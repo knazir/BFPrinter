@@ -11,7 +11,7 @@ def generate_program(text, pretty):
 
 def setup_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('-p', '--pretty', help='format output with new lines', action='store_true')
+    parser.add_argument('-p', '--pretty', help='format output with a new line for each character to print', action='store_true')
     return parser.parse_args()
 
 
